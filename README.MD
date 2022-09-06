@@ -7,6 +7,8 @@
 ## **Image :**
 ![Madame qui sécurise ses mots de passe](./assets//password_security.png)
 
+___
+
 ## **Link of a video :**
 
 I think it's the best song I ever heard.
