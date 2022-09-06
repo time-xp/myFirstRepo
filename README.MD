@@ -11,3 +11,5 @@
 
 I think it's the best song I ever heard.
 [Look this video](https://www.youtube.com/watch?v=HyHNuVaZJ-k)
+
+[![Gorillaz - Feel Good](http://img.youtube.com/vi/HyHNuVaZJ-k/0.jpg)](http://www.youtube.com/watch?v=HyHNuVaZJ-k)
