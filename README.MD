@@ -15,3 +15,20 @@ I think it's the best song I ever heard.
 [Look this video](https://www.youtube.com/watch?v=HyHNuVaZJ-k)
 
 [![Gorillaz - Feel Good](http://img.youtube.com/vi/HyHNuVaZJ-k/0.jpg)](http://www.youtube.com/watch?v=HyHNuVaZJ-k)
+
+## **Part of Python code :**
+
+```python
+import random
+
+def cyber_vs_dev(number):
+  if number == nil or number > 2:
+    return "Error!"
+  elif number == 0:
+    return "Cyber win !"
+  elif number == 1:
+    return "Dev win !"
+
+number = random.randint(0, 1)
+print(cyber_vs_dev(number))
+```
